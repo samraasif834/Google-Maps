@@ -1,4 +1,4 @@
-# googlemaps
+# Google Maps
 
 A new Flutter project.
 
